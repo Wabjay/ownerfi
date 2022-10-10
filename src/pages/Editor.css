@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+.editor {
+    width: 90%;
+    max-width: 1150px;
+    border: solid 0.5px var(--grey-600);
+    margin: 0 auto;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+.rdw-editor-toolbar {
+    display: flex;
+    justify-content: space-between;
+    /* width: 90%; */
+    margin: 0 auto 8px;
+}

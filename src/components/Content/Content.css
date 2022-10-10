@@ -1,0 +1,284 @@
+.container {}
+
+.how {
+    font-style: normal;
+    padding: 40px 16px;
+    text-align: center;
+    background-image: url(../../images/how.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.how .bold_text {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: -1px;
+        color: var(--grey-800);
+    }
+
+    .how .small_text {
+        margin: 8px auto 0;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: var(--grey-600);
+    }
+
+    .how.cards {
+        margin-top: 20px;
+    }
+
+    .how.card {
+        margin-top: 20px;
+    }
+
+    .how .card_title {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 28px;
+        color: var(--grey-800);
+        margin-top: 24px;
+    }
+
+    .how .card_text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: var(--grey-600);
+        margin-top: 20px;
+    }
+
+
+.deliver {
+    padding: 40px 16px;
+    text-align: center;
+    background-image: url(../../images/deliver.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.deliver  .doorstep {
+        width: 286px;
+        height: 351px
+    }
+
+    .deliver .bold_text {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: -1px;
+        color: var(--grey-800);
+        text-align: left;
+        width: 80%;
+        margin-top: 24px;
+    }
+
+    .deliver  .list ul {
+        list-style: none;
+        padding-left: 0;
+    }
+    .deliver  .list ul  li {
+            background-image: url(../../images/checkmark.svg);
+            background-repeat: no-repeat;
+            color: var(--grey-300);
+            background-position: inherit;
+            background-size: 24px;
+            padding-left: 38px;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: var(--grey-600);
+            text-align: left;
+            margin-top: 32px;
+        }
+.customer {
+    font-style: normal;
+    padding: 40px 16px;
+    text-align: center;
+    background-image: url(../../images/how.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.customer .bold_text {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: -1px;
+        color: var(--grey-800);
+        margin: 0 auto;
+        margin-top: 24px;
+        text-align: center;
+        width: 228px;
+    }
+
+    .customer .card {
+        text-align: left;
+        margin: 40px 0 8px;
+    }
+    .customer .card .small_text {
+            margin: 8px 0;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 16px;
+            color: var(--grey-600);
+        }
+
+        .customer .card .name {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 22px;
+            color: var(--grey-800);
+        }
+
+        .customer .card .state {
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 22px;
+            color: var(--grey-800);
+        }
+    
+
+@media (min-width: 576px) {
+    .how {
+        padding: 80px 24px;
+    }
+    .how .bold_text {
+            font-size: 32px;
+            line-height: 39px;
+        }
+
+        .how .small_text {
+            margin-top: 16px;
+            width: 524px;
+            font-size: 20px;
+            line-height: 28px;
+        }
+
+        .how .cards {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-column-gap: 24px;
+
+        }
+
+        .how .card {
+            margin-top: 40px;
+        }
+
+
+    .deliver {
+        padding: 80px 24px;
+    }
+    .deliver   .doorstep {
+            width: 528px;
+            height: 351px;
+        }
+
+        .deliver .bold_text {
+            font-size: 40px;
+            line-height: 48px;
+            max-width: 417px;
+            margin-top: 24px;
+            margin-left: 40px;
+        }
+
+        .deliver li {
+            font-size: 40px;
+            line-height: 48px;
+        }
+
+
+    .customer {
+        padding: 80px 24px;
+    }
+    .customer  .bold_text {
+            font-size: 32px;
+            line-height: 39px;
+            width: 400px;
+        }
+        .customer  .card .small_text{
+                font-size: 20px;
+    line-height: 28px;
+    width: 528px;
+            }
+        
+@media (min-width: 1024px) {
+    .how {
+        padding: 120px 32px;
+    }
+    .how .bold_text {
+            font-size: 40px;
+            line-height: 48px;
+        }
+
+        .how .small_text {
+            width: 724px;
+            font-size: 20px;
+            line-height: 28px;
+        }
+
+        .how .cards {
+            grid-template-columns: repeat(4, 1fr);
+        }
+
+
+    .deliver {
+        display: flex;
+        justify-content: space-between;
+        padding: 120px 32px;
+        /* width: 100%; */
+
+    }
+
+    .customer {
+        padding: 120px 32px;
+    }
+    .customer  .bold_text {
+            font-size: 40px;
+            line-height: 48px;
+        }
+        .customer  .cards{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-column-gap: 80px;
+        }
+        .customer  .card{
+            width: 100%;
+        }
+        .customer  .card .small_text {
+            width: 100%;
+            font-size: 20px;
+            line-height: 28px;
+        }
+    }
+  
+
+@media (min-width: 1280px) {
+    .how {
+        max-width: 1440px;
+        padding: 120px 144px;
+        margin: 0 auto;
+    }
+
+    .deliver {
+        max-width: 1440px;
+        padding: 120px 144px;
+        margin: 0 auto;
+    }
+    .deliver  .bold_text {
+            width: 100%;
+            max-width: 538px;
+        }
+    }
+    .customer{
+        max-width: 1440px;
+        padding: 120px 144px;
+        margin: 0 auto;
+    }
+    .customer  .cards{
+            grid-column-gap: 100px;
+        }
+}
