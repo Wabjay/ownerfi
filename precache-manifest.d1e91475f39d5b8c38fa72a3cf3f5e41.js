@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2d4aad972faa05fb3f4c",
+    "revision": "dbc3f855e52d7426d6f7",
     "url": "/ownerfi/static/css/main.ed18f900.chunk.css"
   },
   {
-    "revision": "2d4aad972faa05fb3f4c",
-    "url": "/ownerfi/static/js/main.4dc0ba02.chunk.js"
+    "revision": "dbc3f855e52d7426d6f7",
+    "url": "/ownerfi/static/js/main.63a73aaf.chunk.js"
   },
   {
     "revision": "7200f0a4d1213cff1a5b",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/icon-.ea93fd26.svg"
   },
   {
-    "revision": "c52a0698ad8321391540e479f4719ea4",
-    "url": "/ownerfi/static/media/how.c52a0698.png"
-  },
-  {
     "revision": "c9359374bdd3d162e031a9215128a70a",
     "url": "/ownerfi/static/media/deliver.c9359374.png"
+  },
+  {
+    "revision": "c52a0698ad8321391540e479f4719ea4",
+    "url": "/ownerfi/static/media/how.c52a0698.png"
   },
   {
     "revision": "1b63546d9b7334519d17c5e2f76c73a4",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/banner_bg.01aaa073.png"
   },
   {
-    "revision": "7ed4325f12b73176236581aae234ebce",
+    "revision": "71cc50faed6b8da148f818da07e26958",
     "url": "/ownerfi/index.html"
   }
 ];
