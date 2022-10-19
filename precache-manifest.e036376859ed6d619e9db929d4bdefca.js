@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ed4a4b57e082f002a45b",
-    "url": "/ownerfi/static/css/main.ddf619a2.chunk.css"
+    "revision": "0ea2adb6b033a4efd462",
+    "url": "/ownerfi/static/css/main.36c70889.chunk.css"
   },
   {
-    "revision": "ed4a4b57e082f002a45b",
-    "url": "/ownerfi/static/js/main.0c9e374f.chunk.js"
+    "revision": "0ea2adb6b033a4efd462",
+    "url": "/ownerfi/static/js/main.98eb2014.chunk.js"
   },
   {
     "revision": "394bc1069b2e6b229e2e",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/faq.a8f7100b.png"
   },
   {
-    "revision": "ea93fd2614e587bab233078c6822c6a9",
-    "url": "/ownerfi/static/media/icon-.ea93fd26.svg"
-  },
-  {
     "revision": "6716c861aec37b334775d9ad18c94343",
     "url": "/ownerfi/static/media/icon+.6716c861.svg"
+  },
+  {
+    "revision": "ea93fd2614e587bab233078c6822c6a9",
+    "url": "/ownerfi/static/media/icon-.ea93fd26.svg"
   },
   {
     "revision": "1339bc5ebb38e58323a1ddc37c335714",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/banner_bg.01aaa073.png"
   },
   {
-    "revision": "8c52eeed1e9feebe59635485d1f608dc",
+    "revision": "2f1893b5180c6032a5663f8a3ef24514",
     "url": "/ownerfi/index.html"
   }
 ];
