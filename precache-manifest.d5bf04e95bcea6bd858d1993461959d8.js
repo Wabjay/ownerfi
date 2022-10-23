@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7274444c95508d8735c6",
-    "url": "/ownerfi/static/css/main.899186a7.chunk.css"
+    "revision": "f14cb90a24642b532611",
+    "url": "/ownerfi/static/css/main.7fee2d36.chunk.css"
   },
   {
-    "revision": "7274444c95508d8735c6",
-    "url": "/ownerfi/static/js/main.cd75e652.chunk.js"
+    "revision": "f14cb90a24642b532611",
+    "url": "/ownerfi/static/js/main.c943391d.chunk.js"
   },
   {
     "revision": "4e239a638c98df6ab386",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/faq.a8f7100b.png"
   },
   {
-    "revision": "6716c861aec37b334775d9ad18c94343",
-    "url": "/ownerfi/static/media/icon+.6716c861.svg"
-  },
-  {
     "revision": "ea93fd2614e587bab233078c6822c6a9",
     "url": "/ownerfi/static/media/icon-.ea93fd26.svg"
+  },
+  {
+    "revision": "6716c861aec37b334775d9ad18c94343",
+    "url": "/ownerfi/static/media/icon+.6716c861.svg"
   },
   {
     "revision": "1339bc5ebb38e58323a1ddc37c335714",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/banner_bg.01aaa073.png"
   },
   {
-    "revision": "e4ed0a1b71acb2cb49f42e10ddf37f5e",
+    "revision": "971a4419cc79aa59ece111a932697bc9",
     "url": "/ownerfi/index.html"
   }
 ];
