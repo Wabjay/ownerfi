@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "70364b3ac37c88f870ab",
+    "revision": "e299a40a9400b42e92e4",
     "url": "/ownerfi/static/css/main.f978732e.chunk.css"
   },
   {
-    "revision": "70364b3ac37c88f870ab",
-    "url": "/ownerfi/static/js/main.6f39f2a3.chunk.js"
+    "revision": "e299a40a9400b42e92e4",
+    "url": "/ownerfi/static/js/main.294241c5.chunk.js"
   },
   {
     "revision": "1c2e46f8e4aa4ebdd861",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/terms.8b6675dd.svg"
   },
   {
-    "revision": "c74585770c21371f3f100200bf85c807",
-    "url": "/ownerfi/static/media/door_step.c7458577.png"
+    "revision": "ec77b0678f82fd29440a77276779774e",
+    "url": "/ownerfi/static/media/door_step.ec77b067.jpg"
   },
   {
     "revision": "79a18db54b5d6725c8b585ba1b8239f7",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/ownerfi/static/media/banner_bg.01aaa073.png"
   },
   {
-    "revision": "a3fe5b447aa9cfd21c7b929385d266b2",
+    "revision": "625eaa366c499e30da3cdb80bbae17f3",
     "url": "/ownerfi/index.html"
   }
 ];
